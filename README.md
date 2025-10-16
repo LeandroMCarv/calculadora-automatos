@@ -1,5 +1,5 @@
 
-# Computer theory project
+# Calculadora de Autômatos
 
 Este projeto foi desenvolvido como parte de uma atividade acadêmica da disciplina de Teoria da Computação no curso de Sistemas de Informação da Universidade Federal de Sergipe (UFS). O objetivo principal é implementar uma ferramenta para manipulação de Autômatos Finitos Determinísticos e Não Determinísticos (AFD/AFN), com base em diversas operações regulares, como união, interseção, concatenação, complemento, minimização de autômatos e conversão de AFN para AFD.
 
